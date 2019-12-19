@@ -1,0 +1,29 @@
+tcp/ip review: basics
+netcat
+wireshark
+Crypto XOR
+
+Python networking libraries
+os, sys, scapy, pcapy, argprase, urllib, httplib, bs4, scrapy
+socket
+
+Python Tools
+macchanger
+netscanner
+arpspoof
+packet sniffer
+
+Socket programming
+
+
+
+Bitwise operators
+~ Complement
+& And
+| Or
+^ XOR
+<< Left Shift
+>> Right Shift
+
+
+
